@@ -31,11 +31,7 @@ I love the entire process of developing creative Web Services. I love the challe
 
 </br>
 
-![](https://img.shields.io/badge/Style-Docker-informational?style=flat&logo=Docker&color=1572B6)
-
-
-</br>
-
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&color=1572B6)
 ![](https://img.shields.io/badge/Tools-Ansible-informational?style=Ansible&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=FF6C37)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
