@@ -13,7 +13,7 @@ I love the entire process of developing creative Web Services. I love the challe
 
 <a href="https://www.linkedin.com/in/mohammad-hossein-zadeh-abbas/"><img align="left" src="https://raw.githubusercontent.com/mhzauser/mhzauser/main/images/linkedin.svg" alt="Mohammad Hosssein | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/mhzuser/"><img align="left" src="https://raw.githubusercontent.com/mhzauser/mhzauser/main/images/instagram.svg" alt="Mohammad Hossein | Instagram" width="21px"/></a>
-<a href="mohammadhossein.zadehabbas@gmail.com"><img align="left" src="https://raw.githubusercontent.com/mhzauser/mhzauser/main/images/email.svg" alt="Mohammad Hossein | Instagram" width="21px"/></a>
+<a href="mohammadhossein.zadehabbas@gmail.com"><img align="left" src="https://raw.githubusercontent.com/mhzauser/mhzauser/main/images/email.svg" alt="Mohammad Hossein | Email" width="21px"/></a>
 </br>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
