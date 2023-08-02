@@ -1,13 +1,15 @@
 
 <h3 align="center">
-Hi there, I'm Mohammad Hossein 👋
+Hi there, I'm Mohammad Hossein (Call me Megahertz) 👋
 </h3>
 
 <h2 align="center">
-I'm a Backend Engineer 💻, Video Maker 📹, and Tennis Player 🎾!
+I'm a Data Engineer 💻, Video Maker 📹, and Tennis Player 🎾!
 </h2> 
 
-I love the entire process of developing creative Web Services. I love the challenge of finding caches and spending time to meet new people.
+a dedicated and experienced professional with a passion for technology, data, and tennis, With four years of expertise as a Python Developer and one year as a Data Engineer, and I am currently working as a Data Engineer, I've honed my skills in crafting innovative solutions that drive meaningful impact.
+As a Python Developer, I've been deeply involved in creating web applications, leveraging the power of Django and Django Rest Framework to build scalable and robust solutions. My journey as a Data Engineer allowed me to explore the realm of big data, setting up and managing data infrastructure to extract valuable insights from complex datasets.
+Beyond my professional pursuits, I find joy and balance in various hobbies. On the court, I'm an avid tennis player, continuously seeking to improve my skills and relishing the competitive spirit. Off the court, I enjoy indulging in video games, where I indulge in captivating stories and challenges.
 
 ### 🤝 Connect with me:
 
