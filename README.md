@@ -13,7 +13,7 @@ Beyond my professional pursuits, I find joy and balance in various hobbies. On t
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/mohammad-hossein-zadeh-abbas/"><img align="left" src="https://raw.githubusercontent.com/mhzauser/mhzauser/main/images/linkedin.svg" alt="Mohammad Hosssein | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/mohammad-hossein-zadeh-abbas/"><img align="left" src="https://raw.githubusercontent.com/mhzauser/mhzauser/main/images/linkedin.svg" alt="Mohammad Hossein | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/mhzuser/"><img align="left" src="https://raw.githubusercontent.com/mhzauser/mhzauser/main/images/instagram.svg" alt="Mohammad Hossein | Instagram" width="21px"/></a>
 <a href="mailto: mohammadhossein.zadehabbas@gmail.com"><img align="left" src="https://raw.githubusercontent.com/mhzauser/mhzauser/main/images/emails.png" alt="Mohammad Hossein | Email" width="21px"/></a>
 </br>
@@ -45,7 +45,3 @@ Beyond my professional pursuits, I find joy and balance in various hobbies. On t
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-Gitlab-informational?style=flat&logo=Gitlab&color=FF6C37)
 
-
-## 📈 GitHub Stats 
-
-[![Yu's github stats](https://github-readme-stats.vercel.app/api?username=mhzauser)](https://github.com/mhzauser)
