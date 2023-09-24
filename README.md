@@ -4,7 +4,7 @@ Hi there, I'm Mohammad Hossein (Call me Megahertz) 👋
 </h3>
 
 <h2 align="center">
-I'm a Software Engineer 💻, Video Maker 📹, and Tennis Player 🎾!
+I'm a Software Engineer 💻, Gamer, and Tennis Player 🎾!
 </h2> 
 
 Hello, I'm Mohammad Hossein (Call me Megahertz), a dedicated and experienced professional with a passion for technology, data, and tennis, With four years of expertise as a Backend Developer and one year as a Software Engineer, and I am currently working as a Software (Data) Engineer, I've honed my skills in crafting innovative solutions that drive meaningful impact.
